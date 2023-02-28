@@ -1,0 +1,42 @@
+p{
+  border: 15px solid;
+  border-style: groove;
+  border-width: 5px;
+  padding: 5px;
+  margin: auto;
+}
+
+#second_paragraph{
+    text-align: center;
+    text-transform: capitalize;
+    font: bold oblique small-caps 12pt/2 "times new roman", serif;
+}
+
+a:visited{
+    color:yellow;
+}
+
+a:hover{
+    color:red;
+}
+
+h1, h2, h3{
+    background-color: aqua;
+}
+
+body{
+    background-color: lime;
+    
+}
+
+*{
+    font-weight: bold;
+}
+
+.upper{
+    font-weight: normal;
+}
+
+#lower{
+    font-weight: bold;
+}
